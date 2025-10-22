@@ -1,0 +1,40 @@
+COMMERCIAL LICENSE AGREEMENT
+
+Copyright (c) 2025
+
+GRANT OF LICENSE
+
+This license grants you, the purchaser, an ongoing, non-exclusive, worldwide license to use the digital work (the "Template").
+
+YOU ARE LICENSED TO:
+
+1. Use the Template to create unlimited End Products for yourself or for clients.
+2. Modify or manipulate the Template and combine it with other works to create derivative works.
+3. Use the Template to create End Products that are sold, licensed, sub-licensed or freely distributed.
+
+YOU ARE NOT LICENSED TO:
+
+1. Use, sell, share, transfer, give away, sublicense or redistribute the Template as stock, in a tool or template, or with source files.
+2. Create End Products that are designed to allow an End User to build their own End Products using the Template or derivatives of the Template.
+3. Re-distribute the Template's source code (HTML, CSS, JavaScript, etc.) separately from an End Product.
+
+DEFINITIONS
+
+- "End Product" means any customized implementation of the Template requiring an application of skill and effort.
+- "End User" means a user of an End Product.
+
+LIABILITY
+
+The Template is provided "as is" without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages or other liability arising from the use of the Template.
+
+OWNERSHIP
+
+This license does not transfer ownership of the Template to you. The Template remains the intellectual property of the creator.
+
+TERMINATION
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms.
+
+---
+
+For questions about this license, please contact the seller.
